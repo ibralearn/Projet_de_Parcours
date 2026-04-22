@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+
+spark/data/checkpoint_filtrees/
+spark/data/checkpoint_kpi/
